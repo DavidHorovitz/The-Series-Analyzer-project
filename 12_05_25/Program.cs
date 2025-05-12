@@ -19,6 +19,7 @@ namespace _12_05_25
                 Console.WriteLine(item);
             }
 
+
             //str = "hello";
             //if(true)
             //{
